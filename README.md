@@ -1,6 +1,6 @@
 # Principles and Design Patterns
 
-https://travis-ci.org/carsimoes/csharp_architecture.svg?branch=master
+[![Build Status](https://travis-ci.org/carsimoes/csharp_architecture.svg?branch=master)](https://travis-ci.org/carsimoes/csharp_architecture)
 
 
 ## The Repository
