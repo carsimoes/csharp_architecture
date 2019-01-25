@@ -1,5 +1,6 @@
 # Principles and Design Patterns
 
+
 ## The Repository
 
 This repository is a source of studies about software architecture and practices of development.
