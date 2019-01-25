@@ -3,6 +3,7 @@ mono: latest
 os: linux
 dist: trusty
 dotnet: 2.1.300
+solution: architecture.sln
 
 script:
 - dotnet build 
