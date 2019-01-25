@@ -1,5 +1,7 @@
 # Principles and Design Patterns
 
+https://travis-ci.org/carsimoes/csharp_architecture.svg?branch=master
+
 
 ## The Repository
 
