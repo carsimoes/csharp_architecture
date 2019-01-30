@@ -19,6 +19,7 @@ This repository is a source of studies about software architecture and practices
 - Dependency Injection 
 - Driven domain design
 - Unit Of Work and Generic repository 
+- Design Patterns
 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/carsimoes/)
