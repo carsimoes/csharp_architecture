@@ -1,0 +1,1 @@
+﻿Design pattern which returns an instance of one of several possible classes depending on the type of data provided.
