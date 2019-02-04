@@ -1,3 +1,4 @@
 ﻿The proxy design pattern is used to provide a surrogate object, which references to other object.
 
-Proxy pattern involves a class, called proxy class, which represents functionality of another class.
+Proxy pattern involves a class, called proxy class, which represents functionality of another
+class.
