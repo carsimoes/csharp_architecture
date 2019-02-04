@@ -1,21 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Architecture.DesignPatterns.Behavioral.Command.SimpleExample
 {
 	public class SimpleCommand : Command
 	{
-		string _payLoad = string.Empty;
+		string _phrase = string.Empty;
 
-		public SimpleCommand(string payLoad)
+		public SimpleCommand(string something)
 		{
-			_payLoad = payLoad;
+			_phrase = something;
 		}
 
 		public override void Execute()
 		{
-			Console.Write($"SimpleCommand: See, I can do simple things like printing ({_payLoad})\n");
+			Console.Write($"SimpleCommand: See, I can do simple things like this ({_phrase})\n");
 		}
 	}
 }

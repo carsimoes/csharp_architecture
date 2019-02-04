@@ -1,0 +1,5 @@
+﻿Observer design pattern includes observers (subscriber) and a Subject (Provider, Observable or Publisher). One or many 
+observers can subscribe to the providers for any specific interest. When some specified condition occurs in the Subject 
+object, it will send notification to all of the subscribed observers.
+
+This pattern is also helpful in any application to send push notifications to the subscribed users.	
