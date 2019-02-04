@@ -1,0 +1,5 @@
+﻿Builder Pattern divides the structure of a complex object from its small details, so a similar 
+logic can create objects with different details (thanks to different builders).
+
+Builder is a creational design pattern, which allows constructing complex objects step by step.
+
