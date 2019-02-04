@@ -1,0 +1,21 @@
+﻿It ensures at any given point of time only one instance of an object 
+is alive and it does supports lazy initialization.
+
+Why and what is the use of Singleton pattern?
+-To preserve global state of a type.
+-To share common data across application.
+-To reduce overhead of instantiating a heavy object again and again.
+-Suitable for Facades and Service proxies.
+-To cache objects in-memory and reuse them throughout the application.
+
+
+Singleton - Real time examples where we need to use
+
+Here are some examples where we can use the singleton pattern, there are not 
+only the case but some of them:
+
+-Application Logging
+-Hardware access
+-Database connections
+-Config files
+-Shopping Cart
