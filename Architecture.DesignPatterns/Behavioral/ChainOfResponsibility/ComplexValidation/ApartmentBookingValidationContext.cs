@@ -19,6 +19,7 @@ namespace Architecture.DesignPatterns.Behavioral.ChainOfResponsibility.ComplexVa
 			DateFromRequiredValidator dateFromRequiredValidator = new DateFromRequiredValidator();
 			DateFromRangeValidator dateFromRangeValidator = new DateFromRangeValidator();
 			dateFromRequiredValidator.SetSuccessor(dateFromRangeValidator);
+
 			DateToRequiredValidator dateTimeToRequiredValidator = new DateToRequiredValidator();
 			dateFromRangeValidator.SetSuccessor(dateTimeToRequiredValidator);
 			DateToRangeValidator dateToRangeValidator = new DateToRangeValidator();

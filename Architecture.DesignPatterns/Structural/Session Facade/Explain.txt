@@ -1,0 +1,5 @@
+﻿Strong typing of what gets put into session variables.
+No need for casting in code where session variables are used.
+All the benefits of property setters to validate what gets put into session variables (more than just type).
+All the benefits of property getters when accessing session variables. For example, initialising a variable the first time it is accessed
+
